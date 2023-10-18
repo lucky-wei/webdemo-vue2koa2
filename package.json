@@ -11,6 +11,7 @@
     "bcryptjs": "^2.4.3",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.13",
+    "klinecharts": "^9.5.4",
     "koa": "^2.14.1",
     "koa-bodyparser": "^4.4.0",
     "koa-cors": "^0.0.16",

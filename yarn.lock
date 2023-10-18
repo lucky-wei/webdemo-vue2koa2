@@ -3474,7 +3474,7 @@ electron-to-chromium@^1.4.284:
 
 element-ui@^2.15.13:
   version "2.15.13"
-  resolved "https://registry.npmmirror.com/element-ui/-/element-ui-2.15.13.tgz"
+  resolved "https://registry.npmmirror.com/element-ui/-/element-ui-2.15.13.tgz#380f019ee7d15b181105587b41fd5914c308a143"
   integrity sha512-LJoatEYX6WV74FqXBss8Xfho9fh9rjDSzrDrTyREdGb1h1R3uRvmLh5jqp2JU137aj4/BgqA3K06RQpQBX33Bg==
   dependencies:
     async-validator "~1.8.1"
@@ -5277,6 +5277,11 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   version "6.0.3"
   resolved "https://registry.npmmirror.com/kind-of/-/kind-of-6.0.3.tgz"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
+
+klinecharts@^9.5.4:
+  version "9.5.4"
+  resolved "https://registry.npmmirror.com/klinecharts/-/klinecharts-9.5.4.tgz#ecceeb2d66df1d24912630aa36e8b2232237cc7d"
+  integrity sha512-XTt2FO8zV0IHTuqzXhzCGHwYpdLYLou6q6ncKeUb8OPcTXe/HwNMN22YGOdI4JXHKf8zl7xpy9FUbSqPojlOBA==
 
 koa-bodyparser@^4.4.0:
   version "4.4.0"

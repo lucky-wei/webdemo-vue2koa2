@@ -3,7 +3,10 @@ const todolist = require('../models/todolist')
 // 查
 const getTodolist = function* () {
     const id = this.params.id //获取url里的id
-    const result = yield todolist.getTodolistById(id)//同步查询返回的结果
+    // const result = yield todolist.getTodolistById(id)//同步查询返回的结果
+    const result = {
+        h:'hello world'
+    }
     this.body = {
         code: 200,
         result
